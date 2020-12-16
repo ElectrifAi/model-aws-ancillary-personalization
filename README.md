@@ -8,3 +8,4 @@ Leverage customer signals to understand customer behavior to build a marketing p
 
 SKU: ANCPS-PS-AIR-AWS-001
 
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-routodtrm3ywg
